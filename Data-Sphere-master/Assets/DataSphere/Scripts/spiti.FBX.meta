@@ -1,0 +1,1447 @@
+fileFormatVersion: 2
+guid: e6825f52fdee90a47921a45026c16c43
+timeCreated: 1511177727
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 1
+    100002: 10
+    100004: 14
+    100006: 16
+    100008: 17
+    100010: 18
+    100012: 19
+    100014: 2
+    100016: 20
+    100018: 21
+    100020: 22
+    100022: 23
+    100024: 24
+    100026: 25
+    100028: 4
+    100030: 7
+    100032: Archexseriors3_01_87
+    100034: be boi
+    100036: bok_lewy
+    100038: bok_lewy01
+    100040: Box01
+    100042: Box02
+    100044: Box03
+    100046: Box04
+    100048: Box04 1
+    100050: Box05
+    100052: Box06
+    100054: Box07
+    100056: Box08
+    100058: Box09
+    100060: Box1
+    100062: Box10
+    100064: Box11
+    100066: Box13
+    100068: Box21
+    100070: Box25
+    100072: Box28
+    100074: Box32
+    100076: Box44
+    100078: Box45
+    100080: Box46
+    100082: Box47
+    100084: Box48
+    100086: Camera01
+    100088: Camera01.Target
+    100090: Camera02
+    100092: Camera02.Target
+    100094: Camera03
+    100096: Camera03.Target
+    100098: Camera04
+    100100: Camera04.Target
+    100102: Camera05
+    100104: Camera05.Target
+    100106: Camera06
+    100108: Camera06.Target
+    100110: Camera07
+    100112: Camera07.Target
+    100114: Camera08
+    100116: Camera08.Target
+    100118: cot
+    100120: Cylinder01
+    100122: Cylinder02
+    100124: Cylinder102
+    100126: Cylinder103
+    100128: Cylinder104
+    100130: Cylinder105
+    100132: Cylinder11
+    100134: Cylinder95
+    100136: Cylinder96
+    100138: felga_tylnia_lewa
+    100140: felga_tylnia_lewa01
+    100142: Fspot001
+    100144: Fspot002
+    100146: Group01
+    100148: Group02
+    100150: kierownica
+    100152: kierownica01
+    100154: kratka_przednia
+    100156: kratka_przednia01
+    100158: Line01
+    100160: Line02
+    100162: Line03
+    100164: Line04
+    100166: Line05
+    100168: Line06
+    100170: Line07
+    100172: Line08
+    100174: Line09
+    100176: Line10
+    100178: Line11
+    100180: Line12
+    100182: Line13
+    100184: Line14
+    100186: Line16
+    100188: Line17
+    100190: Line18
+    100192: Line19
+    100194: Line24
+    100196: Line25
+    100198: listwa_chlodnicy_lewa
+    100200: listwa_chlodnicy_lewa01
+    100202: LLPPP
+    100204: LO
+    100206: LP
+    100208: LPA01
+    100210: LPLPL
+    100212: LPPP89
+    100214: lusterko_lewe
+    100216: lusterko_lewe01
+    100218: lusterko_przednie
+    100220: lusterko_przednie05
+    100222: lusterko_przednie06
+    100224: mat-nuoc
+    100226: mat-nuoc01
+    100228: miAreaLightomni001
+    100230: miAreaLightomni002
+    100232: miAreaLightomni003
+    100234: miAreaLightomni004
+    100236: miAreaLightomni005
+    100238: Nguoi00
+    100240: Nguoi01
+    100242: Nguoi02
+    100244: Nguoi03
+    100246: Nguoi04
+    100248: Nguoi05
+    100250: Nguoi06
+    100252: Nguoi07
+    100254: Object02
+    100256: Object03
+    100258: Object32
+    100260: Object33
+    100262: Object34
+    100264: Object36
+    100266: Object39
+    100268: Object40
+    100270: Object41
+    100272: Object42
+    100274: Object43
+    100276: Object44
+    100278: Object45
+    100280: Object46
+    100282: Object47
+    100284: Object47 1
+    100286: Object49
+    100288: Object51
+    100290: Object52
+    100292: Object53
+    100294: oparcie
+    100296: opona_przednia_lewa
+    100298: opona_przednia_lewa01
+    100300: pasy04
+    100302: pasy05
+    100304: pasy1
+    100306: pasy3
+    100308: peugeot
+    100310: peugeot01
+    100312: Plane01
+    100314: Plane02
+    100316: Plane27
+    100318: Plane28
+    100320: Plane29
+    100322: Plane30
+    100324: podwozie
+    100326: podwozie01
+    100328: podwozie_centrum
+    100330: podwozie_centrum01
+    100332: podwozie_przednie_kola
+    100334: podwozie_przednie_kola01
+    100336: podwozie_przod
+    100338: podwozie_przod01
+    100340: podwozie_tyl
+    100342: podwozie_tyl01
+    100344: podwozie_tylne_kola
+    100346: podwozie_tylne_kola01
+    100348: Railing01
+    100350: Railing02
+    100352: reflektor_lewy02
+    100354: reflektor_lewy04
+    100356: reflektor_lewy05
+    100358: reflektor_lewy06
+    100360: rura_wydechowa
+    100362: rura_wydechowa01
+    100364: san33
+    100366: san39
+    100368: san72
+    100370: Shape01
+    100372: Shape02
+    100374: Shape03
+    100376: slupek_04
+    100378: slupek_05
+    100380: slupek_2
+    100382: slupek_3
+    100384: Sphere02
+    100386: Sphere10
+    100388: Sphere35
+    100390: Sphere36
+    100392: Sphere37
+    100394: //RootNode
+    100396: spryskiwacz_prawy
+    100398: spryskiwacz_prawy01
+    100400: StraightStair01
+    100402: StraightStair02
+    100404: swiatlo_lewe
+    100406: swiatlo_lewe01
+    100408: swiatlo_tylnie11
+    100410: swiatlo_tylnie12
+    100412: szyba_przednia
+    100414: szyba_przednia01
+    100416: Tube01
+    100418: uszczelka_02
+    100420: uszczelka_1
+    100422: UTypeStair01
+    100424: UTypeStair02
+    100426: UTypeStair03
+    100428: VRayProxy01
+    100430: VRayProxy02
+    100432: VRayProxy18
+    100434: VRayProxy19
+    100436: VRayProxy20
+    100438: VRayProxy21
+    100440: VRayProxy22
+    100442: VRayProxy23
+    100444: VRayProxy24
+    100446: VRayProxy25
+    100448: VRayProxy26
+    100450: VRaySun01
+    100452: VRaySun01.Target
+    100454: xdfdfgd01
+    100456: znak04
+    100458: znak05
+    400000: 1
+    400002: 10
+    400004: 14
+    400006: 16
+    400008: 17
+    400010: 18
+    400012: 19
+    400014: 2
+    400016: 20
+    400018: 21
+    400020: 22
+    400022: 23
+    400024: 24
+    400026: 25
+    400028: 4
+    400030: 7
+    400032: Archexseriors3_01_87
+    400034: be boi
+    400036: bok_lewy
+    400038: bok_lewy01
+    400040: Box01
+    400042: Box02
+    400044: Box03
+    400046: Box04
+    400048: Box04 1
+    400050: Box05
+    400052: Box06
+    400054: Box07
+    400056: Box08
+    400058: Box09
+    400060: Box1
+    400062: Box10
+    400064: Box11
+    400066: Box13
+    400068: Box21
+    400070: Box25
+    400072: Box28
+    400074: Box32
+    400076: Box44
+    400078: Box45
+    400080: Box46
+    400082: Box47
+    400084: Box48
+    400086: Camera01
+    400088: Camera01.Target
+    400090: Camera02
+    400092: Camera02.Target
+    400094: Camera03
+    400096: Camera03.Target
+    400098: Camera04
+    400100: Camera04.Target
+    400102: Camera05
+    400104: Camera05.Target
+    400106: Camera06
+    400108: Camera06.Target
+    400110: Camera07
+    400112: Camera07.Target
+    400114: Camera08
+    400116: Camera08.Target
+    400118: cot
+    400120: Cylinder01
+    400122: Cylinder02
+    400124: Cylinder102
+    400126: Cylinder103
+    400128: Cylinder104
+    400130: Cylinder105
+    400132: Cylinder11
+    400134: Cylinder95
+    400136: Cylinder96
+    400138: felga_tylnia_lewa
+    400140: felga_tylnia_lewa01
+    400142: Fspot001
+    400144: Fspot002
+    400146: Group01
+    400148: Group02
+    400150: kierownica
+    400152: kierownica01
+    400154: kratka_przednia
+    400156: kratka_przednia01
+    400158: Line01
+    400160: Line02
+    400162: Line03
+    400164: Line04
+    400166: Line05
+    400168: Line06
+    400170: Line07
+    400172: Line08
+    400174: Line09
+    400176: Line10
+    400178: Line11
+    400180: Line12
+    400182: Line13
+    400184: Line14
+    400186: Line16
+    400188: Line17
+    400190: Line18
+    400192: Line19
+    400194: Line24
+    400196: Line25
+    400198: listwa_chlodnicy_lewa
+    400200: listwa_chlodnicy_lewa01
+    400202: LLPPP
+    400204: LO
+    400206: LP
+    400208: LPA01
+    400210: LPLPL
+    400212: LPPP89
+    400214: lusterko_lewe
+    400216: lusterko_lewe01
+    400218: lusterko_przednie
+    400220: lusterko_przednie05
+    400222: lusterko_przednie06
+    400224: mat-nuoc
+    400226: mat-nuoc01
+    400228: miAreaLightomni001
+    400230: miAreaLightomni002
+    400232: miAreaLightomni003
+    400234: miAreaLightomni004
+    400236: miAreaLightomni005
+    400238: Nguoi00
+    400240: Nguoi01
+    400242: Nguoi02
+    400244: Nguoi03
+    400246: Nguoi04
+    400248: Nguoi05
+    400250: Nguoi06
+    400252: Nguoi07
+    400254: Object02
+    400256: Object03
+    400258: Object32
+    400260: Object33
+    400262: Object34
+    400264: Object36
+    400266: Object39
+    400268: Object40
+    400270: Object41
+    400272: Object42
+    400274: Object43
+    400276: Object44
+    400278: Object45
+    400280: Object46
+    400282: Object47
+    400284: Object47 1
+    400286: Object49
+    400288: Object51
+    400290: Object52
+    400292: Object53
+    400294: oparcie
+    400296: opona_przednia_lewa
+    400298: opona_przednia_lewa01
+    400300: pasy04
+    400302: pasy05
+    400304: pasy1
+    400306: pasy3
+    400308: peugeot
+    400310: peugeot01
+    400312: Plane01
+    400314: Plane02
+    400316: Plane27
+    400318: Plane28
+    400320: Plane29
+    400322: Plane30
+    400324: podwozie
+    400326: podwozie01
+    400328: podwozie_centrum
+    400330: podwozie_centrum01
+    400332: podwozie_przednie_kola
+    400334: podwozie_przednie_kola01
+    400336: podwozie_przod
+    400338: podwozie_przod01
+    400340: podwozie_tyl
+    400342: podwozie_tyl01
+    400344: podwozie_tylne_kola
+    400346: podwozie_tylne_kola01
+    400348: Railing01
+    400350: Railing02
+    400352: reflektor_lewy02
+    400354: reflektor_lewy04
+    400356: reflektor_lewy05
+    400358: reflektor_lewy06
+    400360: rura_wydechowa
+    400362: rura_wydechowa01
+    400364: san33
+    400366: san39
+    400368: san72
+    400370: Shape01
+    400372: Shape02
+    400374: Shape03
+    400376: slupek_04
+    400378: slupek_05
+    400380: slupek_2
+    400382: slupek_3
+    400384: Sphere02
+    400386: Sphere10
+    400388: Sphere35
+    400390: Sphere36
+    400392: Sphere37
+    400394: //RootNode
+    400396: spryskiwacz_prawy
+    400398: spryskiwacz_prawy01
+    400400: StraightStair01
+    400402: StraightStair02
+    400404: swiatlo_lewe
+    400406: swiatlo_lewe01
+    400408: swiatlo_tylnie11
+    400410: swiatlo_tylnie12
+    400412: szyba_przednia
+    400414: szyba_przednia01
+    400416: Tube01
+    400418: uszczelka_02
+    400420: uszczelka_1
+    400422: UTypeStair01
+    400424: UTypeStair02
+    400426: UTypeStair03
+    400428: VRayProxy01
+    400430: VRayProxy02
+    400432: VRayProxy18
+    400434: VRayProxy19
+    400436: VRayProxy20
+    400438: VRayProxy21
+    400440: VRayProxy22
+    400442: VRayProxy23
+    400444: VRayProxy24
+    400446: VRayProxy25
+    400448: VRayProxy26
+    400450: VRaySun01
+    400452: VRaySun01.Target
+    400454: xdfdfgd01
+    400456: znak04
+    400458: znak05
+    2000000: Camera01
+    2000002: Camera02
+    2000004: Camera03
+    2000006: Camera04
+    2000008: Camera05
+    2000010: Camera06
+    2000012: Camera07
+    2000014: Camera08
+    2300000: 1
+    2300002: 10
+    2300004: 14
+    2300006: 16
+    2300008: 17
+    2300010: 18
+    2300012: 19
+    2300014: 2
+    2300016: 20
+    2300018: 21
+    2300020: 22
+    2300022: 23
+    2300024: 24
+    2300026: 25
+    2300028: 4
+    2300030: 7
+    2300032: be boi
+    2300034: bok_lewy
+    2300036: bok_lewy01
+    2300038: Box01
+    2300040: Box02
+    2300042: Box03
+    2300044: Box04
+    2300046: Box04 1
+    2300048: Box05
+    2300050: Box06
+    2300052: Box07
+    2300054: Box08
+    2300056: Box09
+    2300058: Box1
+    2300060: Box10
+    2300062: Box11
+    2300064: Box13
+    2300066: Box21
+    2300068: Box25
+    2300070: Box28
+    2300072: Box32
+    2300074: Box44
+    2300076: Box45
+    2300078: Box46
+    2300080: Box47
+    2300082: Box48
+    2300084: cot
+    2300086: Cylinder01
+    2300088: Cylinder02
+    2300090: Cylinder102
+    2300092: Cylinder103
+    2300094: Cylinder104
+    2300096: Cylinder105
+    2300098: Cylinder11
+    2300100: Cylinder95
+    2300102: Cylinder96
+    2300104: felga_tylnia_lewa
+    2300106: felga_tylnia_lewa01
+    2300108: kierownica
+    2300110: kierownica01
+    2300112: kratka_przednia
+    2300114: kratka_przednia01
+    2300116: Line01
+    2300118: Line02
+    2300120: Line03
+    2300122: Line05
+    2300124: Line06
+    2300126: Line07
+    2300128: Line08
+    2300130: Line09
+    2300132: Line10
+    2300134: Line11
+    2300136: Line12
+    2300138: Line13
+    2300140: Line14
+    2300142: Line16
+    2300144: Line17
+    2300146: Line18
+    2300148: Line19
+    2300150: Line24
+    2300152: Line25
+    2300154: listwa_chlodnicy_lewa
+    2300156: listwa_chlodnicy_lewa01
+    2300158: LLPPP
+    2300160: LO
+    2300162: LP
+    2300164: LPA01
+    2300166: LPLPL
+    2300168: LPPP89
+    2300170: lusterko_lewe
+    2300172: lusterko_lewe01
+    2300174: lusterko_przednie
+    2300176: lusterko_przednie05
+    2300178: lusterko_przednie06
+    2300180: mat-nuoc
+    2300182: mat-nuoc01
+    2300184: Nguoi00
+    2300186: Nguoi01
+    2300188: Nguoi02
+    2300190: Nguoi03
+    2300192: Nguoi04
+    2300194: Nguoi05
+    2300196: Nguoi06
+    2300198: Nguoi07
+    2300200: Object02
+    2300202: Object03
+    2300204: Object32
+    2300206: Object33
+    2300208: Object34
+    2300210: Object36
+    2300212: Object39
+    2300214: Object40
+    2300216: Object41
+    2300218: Object42
+    2300220: Object43
+    2300222: Object44
+    2300224: Object45
+    2300226: Object46
+    2300228: Object47
+    2300230: Object47 1
+    2300232: Object49
+    2300234: Object51
+    2300236: Object52
+    2300238: Object53
+    2300240: oparcie
+    2300242: opona_przednia_lewa
+    2300244: opona_przednia_lewa01
+    2300246: pasy04
+    2300248: pasy05
+    2300250: pasy1
+    2300252: pasy3
+    2300254: peugeot
+    2300256: peugeot01
+    2300258: Plane01
+    2300260: Plane02
+    2300262: Plane27
+    2300264: Plane28
+    2300266: Plane29
+    2300268: Plane30
+    2300270: podwozie_centrum
+    2300272: podwozie_centrum01
+    2300274: podwozie_przednie_kola
+    2300276: podwozie_przednie_kola01
+    2300278: podwozie_przod
+    2300280: podwozie_przod01
+    2300282: podwozie_tyl
+    2300284: podwozie_tyl01
+    2300286: podwozie_tylne_kola
+    2300288: podwozie_tylne_kola01
+    2300290: Railing01
+    2300292: Railing02
+    2300294: reflektor_lewy02
+    2300296: reflektor_lewy04
+    2300298: reflektor_lewy05
+    2300300: reflektor_lewy06
+    2300302: rura_wydechowa
+    2300304: rura_wydechowa01
+    2300306: san33
+    2300308: san39
+    2300310: san72
+    2300312: Shape01
+    2300314: slupek_04
+    2300316: slupek_05
+    2300318: slupek_2
+    2300320: slupek_3
+    2300322: Sphere02
+    2300324: Sphere10
+    2300326: Sphere35
+    2300328: Sphere36
+    2300330: Sphere37
+    2300332: spryskiwacz_prawy
+    2300334: spryskiwacz_prawy01
+    2300336: StraightStair01
+    2300338: StraightStair02
+    2300340: swiatlo_lewe
+    2300342: swiatlo_lewe01
+    2300344: swiatlo_tylnie11
+    2300346: swiatlo_tylnie12
+    2300348: szyba_przednia
+    2300350: szyba_przednia01
+    2300352: Tube01
+    2300354: uszczelka_02
+    2300356: uszczelka_1
+    2300358: UTypeStair01
+    2300360: UTypeStair02
+    2300362: UTypeStair03
+    2300364: xdfdfgd01
+    2300366: znak04
+    2300368: znak05
+    3300000: 1
+    3300002: 10
+    3300004: 14
+    3300006: 16
+    3300008: 17
+    3300010: 18
+    3300012: 19
+    3300014: 2
+    3300016: 20
+    3300018: 21
+    3300020: 22
+    3300022: 23
+    3300024: 24
+    3300026: 25
+    3300028: 4
+    3300030: 7
+    3300032: be boi
+    3300034: bok_lewy
+    3300036: bok_lewy01
+    3300038: Box01
+    3300040: Box02
+    3300042: Box03
+    3300044: Box04
+    3300046: Box04 1
+    3300048: Box05
+    3300050: Box06
+    3300052: Box07
+    3300054: Box08
+    3300056: Box09
+    3300058: Box1
+    3300060: Box10
+    3300062: Box11
+    3300064: Box13
+    3300066: Box21
+    3300068: Box25
+    3300070: Box28
+    3300072: Box32
+    3300074: Box44
+    3300076: Box45
+    3300078: Box46
+    3300080: Box47
+    3300082: Box48
+    3300084: cot
+    3300086: Cylinder01
+    3300088: Cylinder02
+    3300090: Cylinder102
+    3300092: Cylinder103
+    3300094: Cylinder104
+    3300096: Cylinder105
+    3300098: Cylinder11
+    3300100: Cylinder95
+    3300102: Cylinder96
+    3300104: felga_tylnia_lewa
+    3300106: felga_tylnia_lewa01
+    3300108: kierownica
+    3300110: kierownica01
+    3300112: kratka_przednia
+    3300114: kratka_przednia01
+    3300116: Line01
+    3300118: Line02
+    3300120: Line03
+    3300122: Line05
+    3300124: Line06
+    3300126: Line07
+    3300128: Line08
+    3300130: Line09
+    3300132: Line10
+    3300134: Line11
+    3300136: Line12
+    3300138: Line13
+    3300140: Line14
+    3300142: Line16
+    3300144: Line17
+    3300146: Line18
+    3300148: Line19
+    3300150: Line24
+    3300152: Line25
+    3300154: listwa_chlodnicy_lewa
+    3300156: listwa_chlodnicy_lewa01
+    3300158: LLPPP
+    3300160: LO
+    3300162: LP
+    3300164: LPA01
+    3300166: LPLPL
+    3300168: LPPP89
+    3300170: lusterko_lewe
+    3300172: lusterko_lewe01
+    3300174: lusterko_przednie
+    3300176: lusterko_przednie05
+    3300178: lusterko_przednie06
+    3300180: mat-nuoc
+    3300182: mat-nuoc01
+    3300184: Nguoi00
+    3300186: Nguoi01
+    3300188: Nguoi02
+    3300190: Nguoi03
+    3300192: Nguoi04
+    3300194: Nguoi05
+    3300196: Nguoi06
+    3300198: Nguoi07
+    3300200: Object02
+    3300202: Object03
+    3300204: Object32
+    3300206: Object33
+    3300208: Object34
+    3300210: Object36
+    3300212: Object39
+    3300214: Object40
+    3300216: Object41
+    3300218: Object42
+    3300220: Object43
+    3300222: Object44
+    3300224: Object45
+    3300226: Object46
+    3300228: Object47
+    3300230: Object47 1
+    3300232: Object49
+    3300234: Object51
+    3300236: Object52
+    3300238: Object53
+    3300240: oparcie
+    3300242: opona_przednia_lewa
+    3300244: opona_przednia_lewa01
+    3300246: pasy04
+    3300248: pasy05
+    3300250: pasy1
+    3300252: pasy3
+    3300254: peugeot
+    3300256: peugeot01
+    3300258: Plane01
+    3300260: Plane02
+    3300262: Plane27
+    3300264: Plane28
+    3300266: Plane29
+    3300268: Plane30
+    3300270: podwozie_centrum
+    3300272: podwozie_centrum01
+    3300274: podwozie_przednie_kola
+    3300276: podwozie_przednie_kola01
+    3300278: podwozie_przod
+    3300280: podwozie_przod01
+    3300282: podwozie_tyl
+    3300284: podwozie_tyl01
+    3300286: podwozie_tylne_kola
+    3300288: podwozie_tylne_kola01
+    3300290: Railing01
+    3300292: Railing02
+    3300294: reflektor_lewy02
+    3300296: reflektor_lewy04
+    3300298: reflektor_lewy05
+    3300300: reflektor_lewy06
+    3300302: rura_wydechowa
+    3300304: rura_wydechowa01
+    3300306: san33
+    3300308: san39
+    3300310: san72
+    3300312: Shape01
+    3300314: slupek_04
+    3300316: slupek_05
+    3300318: slupek_2
+    3300320: slupek_3
+    3300322: Sphere02
+    3300324: Sphere10
+    3300326: Sphere35
+    3300328: Sphere36
+    3300330: Sphere37
+    3300332: spryskiwacz_prawy
+    3300334: spryskiwacz_prawy01
+    3300336: StraightStair01
+    3300338: StraightStair02
+    3300340: swiatlo_lewe
+    3300342: swiatlo_lewe01
+    3300344: swiatlo_tylnie11
+    3300346: swiatlo_tylnie12
+    3300348: szyba_przednia
+    3300350: szyba_przednia01
+    3300352: Tube01
+    3300354: uszczelka_02
+    3300356: uszczelka_1
+    3300358: UTypeStair01
+    3300360: UTypeStair02
+    3300362: UTypeStair03
+    3300364: xdfdfgd01
+    3300366: znak04
+    3300368: znak05
+    4300000: Object02
+    4300002: Object03
+    4300004: Line02
+    4300006: Line01
+    4300008: StraightStair01
+    4300010: be boi
+    4300012: StraightStair02
+    4300014: cot
+    4300016: san33
+    4300018: san72
+    4300020: san39
+    4300022: Box01
+    4300024: Box02
+    4300026: mat-nuoc
+    4300028: mat-nuoc01
+    4300030: Box04
+    4300032: Line08
+    4300034: Line09
+    4300036: Box06
+    4300038: Box03
+    4300040: Line03
+    4300042: Line05
+    4300044: Line06
+    4300046: Line07
+    4300048: Box05
+    4300050: Line10
+    4300052: Line11
+    4300054: Box07
+    4300056: Box08
+    4300058: UTypeStair01
+    4300060: Line12
+    4300062: Line13
+    4300064: Line14
+    4300066: UTypeStair02
+    4300068: UTypeStair03
+    4300070: Box09
+    4300072: Line17
+    4300074: Shape01
+    4300076: Railing01
+    4300078: Railing02
+    4300080: lusterko_lewe
+    4300082: szyba_przednia
+    4300084: kratka_przednia
+    4300086: spryskiwacz_prawy
+    4300088: peugeot
+    4300090: opona_przednia_lewa
+    4300092: bok_lewy
+    4300094: 14
+    4300096: 16
+    4300098: 7
+    4300100: 10
+    4300102: 4
+    4300104: 17
+    4300106: pasy1
+    4300108: Box1
+    4300110: pasy3
+    4300112: kierownica
+    4300114: lusterko_przednie
+    4300116: podwozie_centrum
+    4300118: podwozie_przednie_kola
+    4300120: podwozie_przod
+    4300122: podwozie_tyl
+    4300124: podwozie_tylne_kola
+    4300126: 1
+    4300128: rura_wydechowa
+    4300130: reflektor_lewy02
+    4300132: reflektor_lewy04
+    4300134: Box44
+    4300136: Sphere02
+    4300138: swiatlo_lewe
+    4300140: 2
+    4300142: znak04
+    4300144: felga_tylnia_lewa
+    4300146: swiatlo_tylnie11
+    4300148: slupek_2
+    4300150: slupek_3
+    4300152: Box04
+    4300154: Cylinder96
+    4300156: Cylinder95
+    4300158: Cylinder102
+    4300160: uszczelka_1
+    4300162: listwa_chlodnicy_lewa
+    4300164: Object44
+    4300166: Box13
+    4300168: Object32
+    4300170: Object33
+    4300172: Object34
+    4300174: Object36
+    4300176: Box21
+    4300178: Tube01
+    4300180: Sphere35
+    4300182: Object39
+    4300184: Object40
+    4300186: Object41
+    4300188: oparcie
+    4300190: Box25
+    4300192: Box32
+    4300194: Object49
+    4300196: Object51
+    4300198: Object47
+    4300200: Box28
+    4300202: Object42
+    4300204: Object43
+    4300206: Cylinder02
+    4300208: Plane28
+    4300210: Cylinder11
+    4300212: lusterko_przednie05
+    4300214: Object53
+    4300216: Plane27
+    4300218: Object46
+    4300220: Object47
+    4300222: LPLPL
+    4300224: LP
+    4300226: Plane29
+    4300228: LPPP89
+    4300230: LPA01
+    4300232: Object52
+    4300234: Sphere10
+    4300236: LO
+    4300238: LLPPP
+    4300240: Sphere36
+    4300242: xdfdfgd01
+    4300244: Object45
+    4300246: Cylinder01
+    4300248: Line16
+    4300250: Line18
+    4300252: Box10
+    4300254: Line19
+    4300256: Plane01
+    4300258: Box11
+    4300260: Box45
+    4300262: Line24
+    4300264: Line25
+    4300266: Plane02
+    4300268: Plane30
+    4300270: bok_lewy01
+    4300272: lusterko_lewe01
+    4300274: szyba_przednia01
+    4300276: kratka_przednia01
+    4300278: spryskiwacz_prawy01
+    4300280: peugeot01
+    4300282: opona_przednia_lewa01
+    4300284: 18
+    4300286: 19
+    4300288: 20
+    4300290: 21
+    4300292: 22
+    4300294: 23
+    4300296: pasy04
+    4300298: Box46
+    4300300: pasy05
+    4300302: kierownica01
+    4300304: lusterko_przednie06
+    4300306: podwozie_centrum01
+    4300308: podwozie_przednie_kola01
+    4300310: podwozie_przod01
+    4300312: podwozie_tyl01
+    4300314: podwozie_tylne_kola01
+    4300316: 24
+    4300318: rura_wydechowa01
+    4300320: reflektor_lewy05
+    4300322: reflektor_lewy06
+    4300324: Box47
+    4300326: Sphere37
+    4300328: swiatlo_lewe01
+    4300330: 25
+    4300332: znak05
+    4300334: felga_tylnia_lewa01
+    4300336: swiatlo_tylnie12
+    4300338: slupek_04
+    4300340: slupek_05
+    4300342: Box48
+    4300344: Cylinder103
+    4300346: Cylinder104
+    4300348: Cylinder105
+    4300350: uszczelka_02
+    4300352: listwa_chlodnicy_lewa01
+    4300354: Nguoi05
+    4300356: Nguoi00
+    4300358: Nguoi06
+    4300360: Nguoi02
+    4300362: Nguoi03
+    4300364: Nguoi04
+    4300366: Nguoi01
+    4300368: Nguoi07
+    7400000: Take 001
+    9500000: //RootNode
+    10800000: Fspot001
+    10800002: Fspot002
+    10800004: miAreaLightomni001
+    10800006: miAreaLightomni002
+    10800008: miAreaLightomni003
+    10800010: miAreaLightomni004
+    10800012: miAreaLightomni005
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 01 - Default
+    second: {fileID: 2100000, guid: fbf6b1342cb41054b9a850cc66740725, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 15 - Default
+    second: {fileID: 2100000, guid: 0b794f3fbc528824a969bf9ab4ac008f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body
+    second: {fileID: 2100000, guid: 9ddd057180a6509438b6857bdc20b8bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Head
+    second: {fileID: 2100000, guid: 4fbed4621007cbd408f5704b6638b177, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #2'
+    second: {fileID: 2100000, guid: 64335ea6ce1639b4cab6f64ff6b93a3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #25'
+    second: {fileID: 2100000, guid: 48eb04bb0bc58ba43924cce597d62362, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #26'
+    second: {fileID: 2100000, guid: e93c32fa4333baf478d765d181568324, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #27'
+    second: {fileID: 2100000, guid: f9d6234404b492d4da3076cf8ac7d631, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #3'
+    second: {fileID: 2100000, guid: d090c708514b424429dbc81b73924662, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #30'
+    second: {fileID: 2100000, guid: c53acfdb5818eb943915229c55dc8e06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #31'
+    second: {fileID: 2100000, guid: 5fef878ae2046244881021321e255567, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #32'
+    second: {fileID: 2100000, guid: 5da8e254da5871a40b8571bf44b54c94, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #33'
+    second: {fileID: 2100000, guid: 751507acc0c387949b17f32c8bb5a99b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #34'
+    second: {fileID: 2100000, guid: 01891618a0ea58b40b49a9b3dd2ce8b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #35'
+    second: {fileID: 2100000, guid: 74296ffa33c976344bc40214163ae046, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #4'
+    second: {fileID: 2100000, guid: bd2ae7ada2ccb1b4fb9e1b2798780fc8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #47'
+    second: {fileID: 2100000, guid: ea3f3779cd584a146bede27dff417e81, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #48'
+    second: {fileID: 2100000, guid: 6b347069ed1e73845bb349a91bde86bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #49'
+    second: {fileID: 2100000, guid: cded7f78eef1b804283d94ecfd3ebfe1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #5'
+    second: {fileID: 2100000, guid: 88c18c05543d2174ca2397181689dafc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #50'
+    second: {fileID: 2100000, guid: 169360c0263642343b3b0e023d8dcab0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #54'
+    second: {fileID: 2100000, guid: c3b793a55af4f434cb29d1d78a770250, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #868'
+    second: {fileID: 2100000, guid: d8636f506afe9364a8debdc7bd5ad729, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #869'
+    second: {fileID: 2100000, guid: b6ece81869512b44691c52f7389f4299, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #870'
+    second: {fileID: 2100000, guid: 82f887434b43dac43873b87a8f01c2f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #871'
+    second: {fileID: 2100000, guid: 29e0e421613fb964b8b6a2d74be0a04a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #874'
+    second: {fileID: 2100000, guid: 6fd0de123525ba24e8e7c7d19880e381, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #875'
+    second: {fileID: 2100000, guid: d739a0422c81d7f44a019418c33fa22a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #876'
+    second: {fileID: 2100000, guid: de8daefc72638f24f87ae2cf43869f77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #877'
+    second: {fileID: 2100000, guid: 097b9317eb0220c4091a85e379cf6e79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #878'
+    second: {fileID: 2100000, guid: 1db6ea1b1b751e64b94dd3583bc37eb8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #879'
+    second: {fileID: 2100000, guid: 5ccdbb660929a1c4db16c55e94c5a249, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #882'
+    second: {fileID: 2100000, guid: 2396850a980c25a468294021842cca96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #883'
+    second: {fileID: 2100000, guid: e5830b23f4dad2442880a244a2f5d01b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #884'
+    second: {fileID: 2100000, guid: 828d6e16fbb2a714eb3c82769f4921c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #885'
+    second: {fileID: 2100000, guid: bbb3873820a4a0a4086e7bc5848b6a05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #886'
+    second: {fileID: 2100000, guid: f37c6806d05422841bac99c64d918b33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #887'
+    second: {fileID: 2100000, guid: c867bd7f900544c4ba60a5d28c9dbcf3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #888'
+    second: {fileID: 2100000, guid: 36f22eacd29fad24a9802e2067fb46e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #889'
+    second: {fileID: 2100000, guid: 233dfb780d08262409c30c40fb7697af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #892'
+    second: {fileID: 2100000, guid: d0a1075cdfaee9d44875587eaae18381, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #893'
+    second: {fileID: 2100000, guid: e8e38032a6c98b3469e38df7719e9e3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #896'
+    second: {fileID: 2100000, guid: 2497af533e8e816408607aabb9d75c38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #897'
+    second: {fileID: 2100000, guid: faf33087ad985dd428c598d1dc91cce2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #898'
+    second: {fileID: 2100000, guid: cb14685fb0cdd9b42b5c4ed1a35550f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #899'
+    second: {fileID: 2100000, guid: cf9cd79b4004e4a4d89be6fa69d04efe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #900'
+    second: {fileID: 2100000, guid: 18bc9c9a18684d944bce6b654e94a7bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #901'
+    second: {fileID: 2100000, guid: 0d697ce8caa28d74f9f191a6f4a8b7ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #902'
+    second: {fileID: 2100000, guid: 98b3f250cc8578d4d8595a016a7d02e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #904'
+    second: {fileID: 2100000, guid: c341b8f45ad57cb4db05be475f1237ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #905'
+    second: {fileID: 2100000, guid: c204c47bda5b33b46a92773881a748b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #906'
+    second: {fileID: 2100000, guid: 9a20d183b90d65446b7a78ba791b96a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #909'
+    second: {fileID: 2100000, guid: 6a8dd15d199759e439959e5890ee8530, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #910'
+    second: {fileID: 2100000, guid: 609d146ec3cd9da4cbca38f8d02b9c14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #911'
+    second: {fileID: 2100000, guid: c23000ea2f1f47b42a4227cc98ea24a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #912'
+    second: {fileID: 2100000, guid: 9d6279e63f50fc448816a38362a098b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #913'
+    second: {fileID: 2100000, guid: 488f808de4a50da4498dd89de411cebc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #914'
+    second: {fileID: 2100000, guid: d338afa0267c39d44866aa8ff524d758, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: ed67dc5f7fef5114bbc181b8e7843cbb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: body
+    second: {fileID: 2100000, guid: 673748c8c47214b4c9d928274545d091, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cell_fone
+    second: {fileID: 2100000, guid: 15ae1b3fcdabc1d48b414db01c7b2656, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glases
+    second: {fileID: 2100000, guid: 8d20daa26e1d09a4c85dd9c15499af81, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glases_glass
+    second: {fileID: 2100000, guid: 68492edfcd706c542bf9b54fc4adaa3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jewelry
+    second: {fileID: 2100000, guid: 11cd6ab38eb56684193219cfb9e5b95e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: karoseria
+    second: {fileID: 2100000, guid: 2bc1629603cac3c468752bcd19b45f1b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lakier - balck
+    second: {fileID: 2100000, guid: eadab8095e0bbdf4b9facd62e45cf628, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
